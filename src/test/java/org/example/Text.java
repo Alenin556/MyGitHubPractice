@@ -10,6 +10,7 @@ public class Text {
         System.out.println("New text");
         System.out.println("New text");
         System.out.println("New text 3");
+        System.out.println("New text 4");
 
     }
 }
